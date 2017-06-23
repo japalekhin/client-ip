@@ -1,0 +1,19 @@
+{
+    "name": "alekhin/client-ip",
+    "description": "A class that enables one call to get the current client IP address.",
+    "license": "GPL-3.0",
+    "keywords": ["ip", "ip address", "address", "client", "visitor"],
+    "authors": [
+        {
+            "name": "Japa Alekhin Llemos",
+            "email": "alekhin@llemos.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "Alekhin\\ClientIP\\": "src"
+        }
+    }
+}
